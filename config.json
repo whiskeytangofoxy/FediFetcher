@@ -1,6 +1,6 @@
 {
   "access-token": "::add-mask::${{ secrets.ACCESS_TOKEN }}",
-  "server": "your.mastodon.server",
+  "server": "mastodon.jackalopes.xyz",
   "home-timeline-length": 200,
   "max-followings": 80,
   "from-notifications": 1

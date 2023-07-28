@@ -1,5 +1,5 @@
 {
-  "access-token": ACCESS_TOKEN,
+  "access-token": "::add-mask::${{ secrets.ACCESS_TOKEN }}",
   "server": "your.mastodon.server",
   "home-timeline-length": 200,
   "max-followings": 80,

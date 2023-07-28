@@ -1,5 +1,5 @@
 {
-  "access-token": "rhrsUuMwBwIClYG1SHxOEXQWJMtZpqGuXcQrbV8cPos",
+  "access-token": ${{ secrets.ACCESS_TOKEN }},
   "server": "mastodon.jackalopes.xyz",
   "home-timeline-length": 200,
   "max-followings": 80,
